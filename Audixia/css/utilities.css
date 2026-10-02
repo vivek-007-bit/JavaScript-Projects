@@ -1,6 +1,25 @@
+/* Utility classes and scrollbar definitions */
+
+:root {
+    --bg-app: #000000;
+    --bg-main: #121212;
+    --bg-surface: #181818;
+    --bg-surface-hover: #242424;
+    --bg-surface-active: #2a2a2a;
+    --border-color: #282828;
+    --text-primary: #ffffff;
+    --text-secondary: #b3b3b3;
+    --text-muted: #727272;
+    --accent-color: #1ed760;
+    --accent-hover: #22e86b;
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-full: 9999px;
+    --transition-speed: 0.15s ease;
+}
+
 .border {
-    border: solid red 2px;
-    margin: 3px;
+    border: 1px solid var(--border-color);
 }
 
 .flex {
@@ -16,51 +35,52 @@
 }
 
 .bg-black {
-    background-color: black;
-    color: white;
+    background-color: var(--bg-app);
+    color: var(--text-primary);
 }
 
 .invert {
-    filter: invert(1);
+    filter: brightness(0) invert(0.8);
+    transition: filter var(--transition-speed);
 }
 
 .bg-grey {
-    background-color: #121212;
+    background-color: var(--bg-main);
 }
 
 .rounded {
-    border-radius: 7px;
+    border-radius: var(--radius-md);
 }
 
 .m-1 {
-    margin: 5px;
+    margin: 4px;
 }
 
 .p-1 {
-    padding: 10px;
+    padding: 12px;
 }
 
-/* For WebKit browsers */
+/* Scrollbar styling for WebKit browsers */
 ::-webkit-scrollbar {
-    width: 12px;
+    width: 8px;
+    height: 8px;
 }
 
 ::-webkit-scrollbar-track {
-    background: #1e1e1e;
+    background: transparent;
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #444;
-    border-radius: 10px;
-    border: 2px solid #1e1e1e;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: var(--radius-full);
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background-color: #666;
+    background-color: rgba(255, 255, 255, 0.35);
 }
 
-/* For Firefox */
+/* Scrollbar styling for Firefox */
 * {
     scrollbar-width: thin;
-    scrollbar-color: #444 #1e1e1e;
+    scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
 }
