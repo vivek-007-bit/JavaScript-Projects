@@ -1,34 +1,86 @@
 {
-    "Doraemon": [
+    "Anime": [
         {
-            "title": "Jadooi Tapu",
-            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1780111374/Doraemon_Movie_Jadui_Tapu_Hit_Song_With_Lyric_Hindi_GOLDEN_BEETAL_-_cartoon_youtube_loafcl.mp4"
+            "title": "Digimon Xros Wars",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791002638/Digimon_Xros_Wars_Opening_hindi_-_Kreuz98_tjgiaf.mp3"
+        },
+        {
+            "title": "We Are Fighting Dreamers",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791000649/naruto_hindi_opening_-_Ninjatuber_youtube_if5fyz_wplj9e.mp4"
         },
         {
             "title": "Zenda Xross",
-            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1780110699/Doraemon_Zenda_X_making_scene___Doraemon_Nobita_and_The_steel_troops___Song_wmvs5w.mp4"
-        }
-    ],
-    "Anime": [
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791000653/Doraemon_Zenda_X_making_scene___Doraemon_Nobita_and_The_steel_troops___Song_wmvs5w_ro353d.mp4"
+        },
         {
-            "title": "We Are Fighting Dreamers",
-            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1780111418/naruto_hindi_opening_-_Ninjatuber_youtube_if5fyz.mp4"
+            "title": "Steel Troops",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791002632/DORAEMON_Hindi_Song_-_Sabse_Pehle_Hai_Pyaar_-_Pippo_Riruru_-_LYRICAL_Version_By_HeRC_Studios_-_Rahul_Choudhary_usdgl7.mp3"
+        },
+        {
+            "title": "Jadooi Tapu",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791000650/Doraemon_Movie_Jadui_Tapu_Hit_Song_With_Lyric_Hindi_GOLDEN_BEETAL_-_cartoon_youtube_loafcl_sphazz.mp4"
         }
+
+    ],
+    "Animax": [
+        {
+            "title": "Best Friend",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791002644/%E8%A5%BF%E9%87%8E%E3%82%AB%E3%83%8A_Best_Friend_Full_cover_by_Lefty_Hand_Cream_-_Lefty_Hand_Cream_Official_pvcu6x.mp3"
+        },
+        {
+            "title": "Evangelion",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791002637/%E6%AE%8B%E9%85%B7%E3%81%AA%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%83%86%E3%83%BC%E3%82%BC_MUSIC_VIDEO_HDver.__Zankoku_na_Tenshi_no_Te-ze_The_Cruel_Angel_s_Thesis_-_KING_RECORDS_qoyfhp.mp3"
+        },
+        {
+            "title": "Zen Zen Zense",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791002509/RADWIMPS_-_Zen_Zen_Zense__%E5%89%8D%E5%89%8D%E5%89%8D%E4%B8%96_Lyric_AMV_-_English_Japanese_Sub_Kimi_no_Na_wa__Your_Name_OST_-_Yuraichu_ndi7j6.mp3"
+        },
+        {
+            "title": "Naruto Shippuden",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791002635/Naruto_Shippuden_-_Ending_1_Shooting_Star_-_Crunchyroll_lfdh2n.mp3"
+        },
+        {
+            "title": "Mitsuha Theme",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791000654/Mitsuha_Theme_q1ruzh.mp4"
+        },
+        {
+            "title": "Weathering With You",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791002560/Is_There_Still_Anything_That_Love_Can_Do_-_Radwimps_ggeepj.mp3"
+        },
+        {
+            "title": "Inuyasha My Will",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791002630/Inuyasha_-_Ending_1_HD_Creditless_-_OAR_43_-_Anime_Biscuit_o6jcol.mp3"
+        },
+        {
+            "title": "Inuyasha Down The Distant Road",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791002623/inuyasha_-_Down_the_Distant_Road_-_hshakans_vhnr2k.mp3"
+        },
+        {
+            "title": "Coundown - Alia",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791002646/AliA___%E3%81%8B%E3%81%8F%E3%82%8C%E3%82%93%E3%81%BC_Official_Music_Video_-_AliA_OFFICIAL_lonczv.mp3"
+        },
+        {
+            "title": "Merry Christmas",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791002620/AKB48_2016_Christmas_Medley_-_AidoruLover_uewfee.mp3"
+        }
+
     ],
     "My Mix": [
         {
-            "title": "Dil Tu Jaan tu",
-            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1780111471/Dil_Tu_Jaan_Tu_Gurnazar_Female_Version_Arunima_Sharma_Superhit_Punjabi_Song_Viral_Reels_-_Jhankar_Music_Punjabi_youtube_qlhkto.mp4"
+            "title": "Yung Kai - Blue",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791002614/yung_kai_-_blue_Lyrics_-_Creative_Chaos_tqesve.mp3"
+        },
+        {
+            "title": "See You Again",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791002618/Wiz_Khalifa_-_See_You_Again_Lyrics_ft._Charlie_Puth_-_Rap_World_zwjhh9.mp3"
+        },
+        {
+            "title": "Dil Tu Jaan Tu",
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791000649/Dil_Tu_Jaan_Tu_Gurnazar_Female_Version_Arunima_Sharma_Superhit_Punjabi_Song_Viral_Reels_-_Jhankar_Music_Punjabi_youtube_qlhkto_tnrzgw.mp4"
         },
         {
             "title": "Pal Pal",
-            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1780111469/Afusic_-_Pal_Pal_Official_Music_Video_Prod._AliSoomroMusic_-_AFUSIC_youtube_oyhhvo.mp4"
-        }
-    ],
-    "Lofi": [
-        {
-            "title": "Suzume Lofi",
-            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1780111594/Suzume_Lofi_-_Mrdark_youtube_f815cr.mp4"
+            "url": "https://res.cloudinary.com/dbybguptm/video/upload/v1791000645/Afusic_-_Pal_Pal_Official_Music_Video_Prod._AliSoomroMusic_-_AFUSIC_youtube_oyhhvo_pumfqd.mp4"
         }
     ]
 }
