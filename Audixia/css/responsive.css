@@ -185,6 +185,7 @@
     .play {
         right: 12px;
         bottom: 56px;
+        display: none;
     }
 
     .play img {
